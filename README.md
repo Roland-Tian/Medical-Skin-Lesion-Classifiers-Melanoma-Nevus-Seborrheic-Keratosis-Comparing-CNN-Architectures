@@ -9,4 +9,4 @@
 ##### SENet-154 appeared to generalize the best. 
 ##### SE-ResNext-101 reduced training error the most, but did not generalize as well.
 ##### Inception-ResNetV2 generalized the worst.
-##### NASNet Large was the most resource intensive and took the longest to train.
+##### NASNet Large was the most resource intensive and took the longest to train. 
