@@ -1,4 +1,4 @@
-#### Skin Lesion Classifiers for Melanoma, Nevus, or Seborrheic Keratosis comparing SENet-154, SE-ResNext-101, Inception-ResNetV2 and NASNet Convolutional Neural Networks with Transfer Learning (only last linear layers trained)
+#### Skin Lesion Classifiers for Melanoma, Nevus, or Seborrheic Keratosis comparing SENet-154, SE-ResNeXt-101, Inception-ResNetV2 and NASNet Convolutional Neural Networks with Transfer Learning (only last linear layers trained)
 
 - Cross entropy loss, and Adam optimizer with default learning rate (0.001) used for all models.
 - Later training showed promise with weight balancing and AdaBound optimizer: https://github.com/Luolc/AdaBound
