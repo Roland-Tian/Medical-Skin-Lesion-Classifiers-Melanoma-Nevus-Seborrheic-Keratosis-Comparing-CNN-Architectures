@@ -6,7 +6,7 @@
 #### Overall test set accuracy (random guessing would be expected to yield ~33% accuracy):
 - SENet-154:           
 64%
-- SE-ResNext-101:      
+- SE-ResNeXt-101:      
 61%
 - Inception-ResNetV2:  
 56%
